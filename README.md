@@ -6,7 +6,7 @@ Trabajo integrador del curso de Data Sceince de UTN E-Learning
 
 ## Descripción
 
-Este proyecto forma parte del trabajo integrador del curso Codo a Codo 4.0 - Big Data / Data Analytics. Su objetivo es aplicar herramientas de Data Science en el análisis de los tipos de cambio de divisas, específicamente USD/JPY, USD/EUR y USD/ARS. A través de este estudio, se busca entender la volatilidad del mercado financiero y explorar patrones en la evolución de las divisas.
+Este proyecto forma parte del trabajo integrador del  curso de la UTN eLearning en Data Science. Su objetivo es aplicar herramientas de Data Science en el análisis de los tipos de cambio de divisas, específicamente USD/JPY, USD/EUR y USD/ARS. A través de este estudio, se busca entender la volatilidad del mercado financiero y explorar patrones en la evolución de las divisas.
 
 ## Motivación
 
