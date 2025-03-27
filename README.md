@@ -34,7 +34,7 @@ Se realizaron los siguientes pasos en el análisis:
 
 Carga y limpieza de datos: Eliminación de columnas irrelevantes y ajuste de formatos de fechas.
 
-Análisis exploratorio:
+### Análisis exploratorio:
 
 Visualización de la evolución de los precios de cierre.
 
@@ -42,7 +42,7 @@ Cálculo de métricas descriptivas (media, mediana, desviación estándar, máxi
 
 Histogramas y distribución de los datos.
 
-Modelado predictivo:
+### Modelado predictivo:
 
 Uso de Prophet para la predicción de tendencias futuras.
 
